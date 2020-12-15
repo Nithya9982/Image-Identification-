@@ -1,0 +1,60 @@
+body{
+  font-family: 'Amatic SC', cursive;
+  background:#e6ccff;
+  font-size: 25px;
+}
+.header_div {
+    background:  #ffffff;
+    color: #000066;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background : #ffcccc;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid #ff6666;
+
+}
+.main_div label{
+    width: 310px;
+    background : whitesmoke;
+    padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px  5px 18px whitesmoke;
+}
+#camera , #result{
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px  whitesmoke;
+
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px  whitesmoke;
+    border: 1px solid whitesmoke;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: whitesmoke;
+    border-radius: 15px;
+    padding:5px;
+    box-shadow: 5px 5px 18px  whitesmoke;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #000066;
+    bottom: 0;
+    width :100%;
+    background: gray;
+    line-height: 3 ;
+    text-align: center;
+}
